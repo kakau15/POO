@@ -1,0 +1,12 @@
+nome_completo = input("Digite seu nome completo: ")
+idade = input("Digite a sua idade:  ")
+cidade = input("Digite a cidade que você mora: ")
+profissao = input("Digite a sua profissão: ")
+hobby = input("Digite uma atividade ou hobby que você gosta de fazer: ")
+
+print("\nInformações fornecidas:")
+print(f"Nome completo: {nome_completo}")
+print(f"Idade: {idade} anos")
+print(f"Cidade: {cidade}")
+print(f"Profissão: {profissao}")
+print(f"Hobby: {hobby}")
